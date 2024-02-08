@@ -1,2 +1,2 @@
 # TicTacToe
-![Screenshot](https://github.com/TicTacToe/blob/main/startGame.png)
+![Screnshot](https://github.com/TicTacToe/blob/main/startGame.png)
